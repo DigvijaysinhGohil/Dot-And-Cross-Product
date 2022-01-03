@@ -1,2 +1,3 @@
-# Dot-And-Cross-Product is a repository I created to help understand the Dot and Cross products.
-I have included 2 scene 1st is the explanation scene about both methods and 2nd is the real life example scene about the application of both methods.
+# Dot-And-Cross-Product 
+I have created this repository to help understand the Dot and Cross products more easily and hopefully more clearly.
+I have included 2 scenes, 1st is the explanation scene about both methods and 2nd is the real life example scene about the application of both methods.
